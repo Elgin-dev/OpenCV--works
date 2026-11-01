@@ -1,0 +1,5 @@
+path: E:\proglint\main1\evaluation_dataset
+train: images/val
+val: images/val
+names:
+  0: person
