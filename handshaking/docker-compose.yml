@@ -1,0 +1,27 @@
+
+services:
+  cv-development:
+    build:
+      context: .
+      dockerfile: docker/dockerfile
+
+    container_name: counter-cv-dev
+
+    working_dir: /workspace
+
+    volumes:
+      - .:/workspace
+
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+      
+
+    gpus: all
+
+    shm_size: "2gb"
+
+    stdin_open: true
+    tty: true
+
+    command: sleep infinity

@@ -1,0 +1,15 @@
+[
+    {
+        "event_id": 1,
+        "frame": 90,
+        "timestamp": "00:00:03.000",
+        "staff_track_id": null,
+        "customer_track_id": null,
+        "event_type": "WRIST_BOUNDARY_CROSSING",
+        "state": "BOUNDARY_CROSSED",
+        "duration_seconds": 0.0,
+        "minimum_wrist_distance": null,
+        "boundary_crossed": true,
+        "handshake_reversals": 0
+    }
+]

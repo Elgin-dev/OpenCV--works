@@ -1,0 +1,12 @@
+
+ultralytics
+opencv-python-headless
+numpy
+pandas
+PyYAML
+shapely
+scipy
+filterpy
+pytest
+mlflow
+streamlit

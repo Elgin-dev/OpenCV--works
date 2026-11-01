@@ -3,3 +3,8 @@
 *.csv
 *.MOV
 main2
+handshaking/outputs/pose/
+handshaking/outputs/videos/
+handshaking/dataset/merged/
+handshaking/dataset/video/
+*__pycache__/
