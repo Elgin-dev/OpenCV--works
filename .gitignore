@@ -8,3 +8,9 @@ handshaking/outputs/videos/
 handshaking/dataset/merged/
 handshaking/dataset/video/
 *__pycache__/
+out_full_finetune/
+out_head_only/
+out_top2_blocks/
+out_lora/
+out_lora_r8_qv_4ep
+out_lora_r16_all_4ep
